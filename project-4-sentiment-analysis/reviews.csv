@@ -1,0 +1,51 @@
+review_id,review,sentiment
+1,The product works perfectly and the quality is excellent,Positive
+2,"Amazing experience, fast delivery and great packaging",Positive
+3,"I love this product, it is worth every penny",Positive
+4,"Very useful and easy to use, highly recommended",Positive
+5,The battery lasts long and performance is smooth,Positive
+6,"Excellent value for money, I am very happy",Positive
+7,The item arrived early and looks beautiful,Positive
+8,Customer support was helpful and solved my issue quickly,Positive
+9,Good quality materials and impressive design,Positive
+10,This is the best purchase I have made recently,Positive
+11,Setup was simple and the instructions were clear,Positive
+12,"Works as advertised, no problems so far",Positive
+13,The sound is clear and the build feels premium,Positive
+14,Great product with reliable performance,Positive
+15,I am satisfied with the purchase and would buy again,Positive
+16,Comfortable to use and very convenient,Positive
+17,The screen is bright and the colors look fantastic,Positive
+18,Delivery was quick and the seller was professional,Positive
+19,"Fantastic quality, everything functions properly",Positive
+20,A wonderful product that exceeded my expectations,Positive
+21,The product is terrible and stopped working immediately,Negative
+22,"Very disappointed, poor quality and waste of money",Negative
+23,Delivery was late and the package was damaged,Negative
+24,"I hate this item, it does not work properly",Negative
+25,Battery drains quickly and performance is very slow,Negative
+26,"Bad experience, I would not recommend this product",Negative
+27,The material feels cheap and breaks easily,Negative
+28,Customer service was rude and unhelpful,Negative
+29,"Not worth the price, completely dissatisfied",Negative
+30,The instructions were confusing and setup failed,Negative
+31,It stopped working after two days,Negative
+32,Poor design and uncomfortable to use,Negative
+33,The sound is distorted and quality is awful,Negative
+34,I regret buying this product,Negative
+35,The item arrived broken and unusable,Negative
+36,"Nothing works as promised, very frustrating",Negative
+37,Slow delivery and no response from the seller,Negative
+38,The screen is dull and the colors look terrible,Negative
+39,Cheap materials and disappointing performance,Negative
+40,This was a bad purchase and a complete failure,Negative
+41,The product is okay and does the basic job,Positive
+42,Really nice quality and simple operation,Positive
+43,I received the wrong item and had a frustrating experience,Negative
+44,The product exceeded expectations and arrived on time,Positive
+45,It feels uncomfortable and the buttons are unreliable,Negative
+46,Excellent features and smooth operation,Positive
+47,The price is high but the quality is poor,Negative
+48,Very happy with the fast service,Positive
+49,The item is defective and customer support ignored me,Negative
+50,"Useful product, good finish and dependable results",Positive
