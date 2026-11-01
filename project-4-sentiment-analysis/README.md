@@ -1,4 +1,4 @@
-# Project 4: Product Review Sentiment Analysis
+ Product Review Sentiment Analysis
 
 ## Overview
 An NLP and machine-learning project that classifies unstructured product reviews as **Positive** or **Negative**.
